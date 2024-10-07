@@ -16,11 +16,9 @@ address {
     font-style: normal;
 }
 
-
 button {
     font-family: inherit;
 }
-
 
 .header-navigation {
     color: #2e2f42;
@@ -35,13 +33,11 @@ button {
     letter-spacing: 0.03em;
     color: #4d5ae5;
     text-transform: uppercase;
-
 }
 
 .header-logo-color {
     color: #2e2f42;
 }
-
 
 .header-navigation-link {
     font-weight: 500;
@@ -49,10 +45,6 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
-
-.header-navigation-item {
-
 }
 
 .header-navigation-link:hover,
@@ -81,8 +73,7 @@ button {
     color: #404bbf;
 }
 
-.main-content {
-}
+.main-content {}
 
 .hero {
     background-color: #2e2f42;
@@ -100,12 +91,14 @@ button {
 .order-button {
     border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     color: #fff;
-    cursor: pointer
+    cursor: pointer;
+    font-weight: 500;
+    /* Жирність шрифту */
+    line-height: 1.5;
+    /* Висота рядка */
 }
 
 .order-button:hover,
@@ -113,20 +106,13 @@ button {
     background: #404bbf;
 }
 
-.features {
-}
+.features {}
 
-.features-title {
+.features-title {}
 
-}
+.features-list {}
 
-.features-list {
-    
-}
-
-.feature-item {
-
-}
+.feature-item {}
 
 .feature-title {
     font-weight: 500;
@@ -136,14 +122,13 @@ button {
     color: #2e2f42;
 }
 
-.feature-description{
+.feature-description {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;    
+    color: #434455;
 }
-
 
 .team {
     background-color: #f4f4fd;
@@ -159,24 +144,20 @@ button {
     color: #2e2f42;
 }
 
-.team-list {
-
-}
+.team-list {}
 
 .team-member {
     background-color: #ffffff;
 }
 
-.team-member-image {
-
-}
+.team-member-image {}
 
 .team-member-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;    
+    color: #2e2f42;
 }
 
 .team-member-role {
@@ -186,7 +167,6 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
 
 .portfolio-title {
     font-weight: 700;
@@ -198,19 +178,13 @@ button {
     text-transform: capitalize;
 }
 
-.portfolio-list {
+.portfolio-list {}
 
-}
+.portfolio-item {}
 
-.portfolio-item {
+.portfolio-image {}
 
-}
-
-.portfolio-image {
-
-}
-
-.portfolio-item-title{
+.portfolio-item-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -218,7 +192,7 @@ button {
     color: #2e2f42;
 }
 
-.portfolio-item-description{
+.portfolio-item-description {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -240,7 +214,7 @@ button {
     color: #4d5ae5;
 }
 
-.footer-logo-color{
+.footer-logo-color {
     color: #f4f4fd;
 }
 
