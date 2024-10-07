@@ -60,7 +60,6 @@ button {
     color: #404bbf;
 }
 
-/* Контактна інформація */
 .contact-info {
     font-weight: 400;
     font-size: 16px;
@@ -82,11 +81,9 @@ button {
     color: #404bbf;
 }
 
-/* Основний контент */
 .main-content {
 }
 
-/* Герой секція */
 .hero {
     background-color: #2e2f42;
 }
@@ -116,7 +113,6 @@ button {
     background: #404bbf;
 }
 
-/* Секція особливостей */
 .features {
 }
 
@@ -149,7 +145,6 @@ button {
 }
 
 
-/* Секція команди */
 .team {
     background-color: #f4f4fd;
 }
@@ -192,7 +187,6 @@ button {
     color: #434455;
 }
 
-/* Секція портфоліо */
 
 .portfolio-title {
     font-weight: 700;
@@ -232,7 +226,6 @@ button {
     color: #434455;
 }
 
-/* Футер */
 .footer {
     background: #2e2f42;
 }
