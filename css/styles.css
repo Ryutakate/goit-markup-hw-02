@@ -35,7 +35,7 @@ button {
     text-transform: uppercase;
 }
 
-.header-logo-color {
+.header-logocolor {
     color: #2e2f42;
 }
 
@@ -150,9 +150,9 @@ button {
     background-color: #ffffff;
 }
 
-.team-member-image {}
+.team-image {}
 
-.team-member-name {
+.team-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -160,7 +160,7 @@ button {
     color: #2e2f42;
 }
 
-.team-member-role {
+.team-role {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -184,7 +184,7 @@ button {
 
 .portfolio-image {}
 
-.portfolio-item-title {
+.portfolio-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -192,7 +192,7 @@ button {
     color: #2e2f42;
 }
 
-.portfolio-item-description {
+.portfolio-description {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -214,7 +214,7 @@ button {
     color: #4d5ae5;
 }
 
-.footer-logo-color {
+.footer-logocolor {
     color: #f4f4fd;
 }
 
