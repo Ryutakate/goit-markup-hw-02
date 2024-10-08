@@ -56,6 +56,11 @@ button {
     color: #404bbf;
 }
 
+.header-navigation-link:active {
+    color: #404bbf;
+    text-decoration: underline;
+}
+
 .contact-info {
     font-weight: 400;
     font-size: 16px;
