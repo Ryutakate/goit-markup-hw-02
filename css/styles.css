@@ -82,6 +82,11 @@ button {
     color: #404bbf;
 }
 
+.contact-link:active {
+    color: #404bbf;
+    text-decoration: underline;
+}
+
 .main-content {}
 
 .hero {
