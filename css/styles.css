@@ -47,7 +47,11 @@ button {
     color: #2e2f42;
 }
 
-.header-navigation-link:hover,
+.header-navigation-link:hover {
+    color: #404bbf;
+}
+
+
 .header-navigation-link:focus {
     color: #404bbf;
 }
