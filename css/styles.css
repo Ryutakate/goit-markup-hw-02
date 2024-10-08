@@ -93,13 +93,11 @@ button {
     color: #fff;
     cursor: pointer;
     letter-spacing: 0.04em;
-    font-weight: 500
-    line-height: 1.5
 }
 
 .order-button:hover,
 .order-button:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .features {}
